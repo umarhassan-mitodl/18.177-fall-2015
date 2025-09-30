@@ -1,0 +1,54 @@
+{
+  "term": "Fall",
+  "year": "2015",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ],
+    [
+      "Mathematics",
+      "Mathematical Analysis"
+    ],
+    [
+      "Mathematics",
+      "Topology and Geometry"
+    ]
+  ],
+  "legacy_uid": "485273d8-ede8-83f4-1d06-ca50dbc80234",
+  "instructors": {
+    "content": [
+      "e70c40f6-ed28-feb1-2e7b-c7beec422b27"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "dccbcf6e-0b52-0e92-3b7e-729b47365c98",
+    "website": "18-177-universal-random-structures-in-2d-fall-2015"
+  },
+  "course_title": "Universal Random Structures in 2D",
+  "hide_download": true,
+  "course_description": "This graduate-level course introduces students to some fundamental 2D random objects, explains how they are related to each other, and explores some open problems in the field.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.177",
+  "course_image_thumbnail": {
+    "content": "4cfe1201-eca0-49e2-fb2d-b7bfa35e94ab",
+    "website": "18-177-universal-random-structures-in-2d-fall-2015"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "site_uid": "f734a1f3-52b3-4548-a3fe-d99f82498b17",
+  "site_short_id": "18.177-fall-2015",
+  "site_url_path": "courses/18-177-universal-random-structures-in-2d-fall-2015",
+  "title": "Course Metadata"
+}
