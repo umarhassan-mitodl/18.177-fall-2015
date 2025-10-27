@@ -8,8 +8,6 @@ description: 'Introductory slides on universal random structures in 2D. Topics i
 file: /courses/18-177-universal-random-structures-in-2d-fall-2015/bbe0bf635099428fb0a1d6265c3273f8_MIT18_177F15_Intro.pdf
 file_size: 2182657
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -7,8 +7,6 @@ description: Lecture notes on universal randomness in 2D. Topics include Random 
 file: /courses/18-177-universal-random-structures-in-2d-fall-2015/fb0adaafb5f38114b0471312c8687de6_MIT18_177F15_LECNOTES.pdf
 file_size: 537603
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

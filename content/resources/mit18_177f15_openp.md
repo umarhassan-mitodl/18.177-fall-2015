@@ -5,8 +5,6 @@ description: Suggested research problems for a final project on universal random
 file: /courses/18-177-universal-random-structures-in-2d-fall-2015/494904252a78e86d7013d8c5a84f39c4_MIT18_177F15_openp.pdf
 file_size: 184403
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

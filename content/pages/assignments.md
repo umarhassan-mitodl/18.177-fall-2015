@@ -2,8 +2,6 @@
 content_type: page
 description: This section includes both of problem sets assigned in the course as
   well as the final project assignment.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -18,13 +16,13 @@ Problem Set 1
 2.  Work out an explicit example (as small as you like) of the Cori-Vaquelin-Schaeer, the Mullin bijection, the hamburger cheeseburger bijection, and the bipolar planar map bijection.
 3.  Generate a uniform random spanning tree on a small graph (by hand) using coin tosses and Wilson's algorithm.
 4.  If you have the range of a stable subordinator of parameter α and the range of another stable subordinator of parameter β, what conditions on β and α ensure the intersection of these two sets is almost surely empty? Use the Bessel process relationship to explain your answer.
-5.  Read and take notes on Berestycki's [Introduction to the Gaussian Free Field and Liouville Quantum Gravity (PDF - 2.8MB)](http://www.math.stonybrook.edu/~bishop/classes/math638.F20/Berestycki_GFF_LQG.pdf). (You may also consult [Gaussian free fields for mathematicians](http://arxiv.org/abs/math/0312099) and the introduction to [Liouville quantum gravity and KPZ](http://arxiv.org/abs/0808.1560).) Try working through some of the exercises.
+5.  Read and take notes on Berestycki's {{% resource_link "ccdf1176-ffec-490c-95c8-e0eddcaaffa8" "Introduction to the Gaussian Free Field and Liouville Quantum Gravity (PDF - 2.8MB)" %}}. (You may also consult {{% resource_link "40ce8b32-d852-4cd3-922c-b808e9ea0344" "Gaussian free fields for mathematicians" %}} and the introduction to {{% resource_link "5a57f7fe-25db-4851-9399-2321a1557d8d" "Liouville quantum gravity and KPZ" %}}.) Try working through some of the exercises.
 6.  Come talk to me at some point about open problems and / or your final project.
 
 Problem Set 2
 -------------
 
-1.  Read and take notes on [Schramm-Loewner Evolution (PDF)](http://www.statslab.cam.ac.uk/~james/Lectures/sle.pdf) by Berestycki and Norris. (You may also consult the notes by Lawler, by Kager / Neinhuis, and by Werner in the {{% resource_link 1c43d624-ee12-198a-8382-22e3fa098f69 "readings section" %}}.) Try working out a few of the things left as exercises.
+1.  Read and take notes on {{% resource_link "c29fcdd9-7bd3-44a3-a4a9-005c468efb9e" "Schramm-Loewner Evolution (PDF)" %}} by Berestycki and Norris. (You may also consult the notes by Lawler, by Kager / Neinhuis, and by Werner in the {{% resource_link 1c43d624-ee12-198a-8382-22e3fa098f69 "readings section" %}}.) Try working out a few of the things left as exercises.
 2.  Read and take notes on one of the references (your choice) from the Selected References on Universal Object Relationships portion in the {{% resource_link 1c43d624-ee12-198a-8382-22e3fa098f69 "readings section" %}}.
 3.  Read and take notes on one of the papers (your choice) about growth models in the {{% resource_link 1c43d624-ee12-198a-8382-22e3fa098f69 "readings section" %}}.
 4.  Come talk to me at some point about open problems and / or your final project.
